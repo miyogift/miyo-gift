@@ -85,25 +85,37 @@ Choose a template as the starting point, then personalize the content for the pe
 
 ### Anniversary Memory Letter with Timeline Moments
 
+<a href="https://miyogift.com/anniversary-memory-letter-q7n4m-1133"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/04/gift/template/covers/8c17f028-26ee-4269-b6ac-6e46e3c08fab_timelessyou-cover-1080x1920.webp" alt="Anniversary Memory Letter with Timeline Moments" width="240"></a>
+
 [View Anniversary Memory Letter with Timeline Moments](https://miyogift.com/anniversary-memory-letter-q7n4m-1133)
 
 ### Anniversary Memory Letter with a Final Surprise
+
+<a href="https://miyogift.com/anniversary-memory-letter-v8r2s-1119"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/02/gift/template/covers/10bd36a8-16db-4d18-b2ab-2de4c0fbd5c3_letters-of-us-cover.webp" alt="Anniversary Memory Letter with a Final Surprise" width="240"></a>
 
 [View Anniversary Memory Letter with a Final Surprise](https://miyogift.com/anniversary-memory-letter-v8r2s-1119)
 
 ### Birthday Memory Gift Page
 
+<a href="https://miyogift.com/birthday-memory-gift-page-z3p9k-1157"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/05/gift/template/covers/712b69b2-f198-47cf-9e6e-b1e6b3bbfe8e_6wSEoC60xs-cover.webp" alt="Birthday Memory Gift Page" width="240"></a>
+
 [View Birthday Memory Gift Page](https://miyogift.com/birthday-memory-gift-page-z3p9k-1157)
 
 ### Birthday Memory Wish Page
+
+<a href="https://miyogift.com/birthday-memory-wish-page-m8r4t-1143"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/05/gift/template/covers/d288300f-98d6-4141-81cd-804c6f4bff51_O0CZ1kTkb1-cover.webp" alt="Birthday Memory Wish Page" width="240"></a>
 
 [View Birthday Memory Wish Page](https://miyogift.com/birthday-memory-wish-page-m8r4t-1143)
 
 ### Interactive Birthday Surprise Page
 
+<a href="https://miyogift.com/interactive-birthday-surprise-page-q6n2v-1169"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/05/gift/template/covers/3ca41ef2-93ec-48c6-8f10-04028fbab224_eI3ZOAELuS-cover.webp" alt="Interactive Birthday Surprise Page" width="240"></a>
+
 [View Interactive Birthday Surprise Page](https://miyogift.com/interactive-birthday-surprise-page-q6n2v-1169)
 
 ### Love Note Galaxy
+
+<a href="https://miyogift.com/love-note-galaxy-1107"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/06/21/gift/template/covers/3ebef018-38d9-4900-bef6-d97d7443389c_love-note-galaxy-cover-9x16.webp" alt="Love Note Galaxy" width="240"></a>
 
 [View Love Note Galaxy](https://miyogift.com/love-note-galaxy-1107)
 

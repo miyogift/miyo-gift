@@ -85,25 +85,37 @@ Escolha um modelo como ponto de partida e personalize o conteúdo para a pessoa 
 
 ### Carta de memórias de aniversário com linha do tempo
 
+<a href="https://miyogift.com/pt/carta-memorias-aniversario-q7n4m-1140"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/04/gift/template/covers/8c17f028-26ee-4269-b6ac-6e46e3c08fab_timelessyou-cover-1080x1920.webp" alt="Carta de memórias de aniversário com linha do tempo" width="240"></a>
+
 [Ver Carta de memórias de aniversário com linha do tempo](https://miyogift.com/pt/carta-memorias-aniversario-q7n4m-1140)
 
 ### Carta de memórias de aniversário com surpresa final
+
+<a href="https://miyogift.com/pt/carta-memorias-casal-v8r2s-1123"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/02/gift/template/covers/10bd36a8-16db-4d18-b2ab-2de4c0fbd5c3_letters-of-us-cover.webp" alt="Carta de memórias de aniversário com surpresa final" width="240"></a>
 
 [Ver Carta de memórias de aniversário com surpresa final](https://miyogift.com/pt/carta-memorias-casal-v8r2s-1123)
 
 ### Página de presente de aniversário com memórias
 
+<a href="https://miyogift.com/pt/presente-aniversario-fotos-desejos-z3p9k-1164"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/05/gift/template/covers/712b69b2-f198-47cf-9e6e-b1e6b3bbfe8e_6wSEoC60xs-cover.webp" alt="Página de presente de aniversário com memórias" width="240"></a>
+
 [Ver Página de presente de aniversário com memórias](https://miyogift.com/pt/presente-aniversario-fotos-desejos-z3p9k-1164)
 
 ### Página de desejos de aniversário com memórias
+
+<a href="https://miyogift.com/pt/pagina-mensagem-aniversario-memorias-m8r4t-1152"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/05/gift/template/covers/d288300f-98d6-4141-81cd-804c6f4bff51_O0CZ1kTkb1-cover.webp" alt="Página de desejos de aniversário com memórias" width="240"></a>
 
 [Ver Página de desejos de aniversário com memórias](https://miyogift.com/pt/pagina-mensagem-aniversario-memorias-m8r4t-1152)
 
 ### Página interativa de surpresa de aniversário
 
+<a href="https://miyogift.com/pt/pagina-surpresa-aniversario-interativa-q6n2v-1176"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/05/gift/template/covers/3ca41ef2-93ec-48c6-8f10-04028fbab224_eI3ZOAELuS-cover.webp" alt="Página interativa de surpresa de aniversário" width="240"></a>
+
 [Ver Página interativa de surpresa de aniversário](https://miyogift.com/pt/pagina-surpresa-aniversario-interativa-q6n2v-1176)
 
 ### Galáxia de notas de amor
+
+<a href="https://miyogift.com/pt/love-note-galaxy-1118"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/06/21/gift/template/covers/3ebef018-38d9-4900-bef6-d97d7443389c_love-note-galaxy-cover-9x16.webp" alt="Galáxia de notas de amor" width="240"></a>
 
 [Ver Galáxia de notas de amor](https://miyogift.com/pt/love-note-galaxy-1118)
 

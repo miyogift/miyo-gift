@@ -85,25 +85,37 @@ Choisissez un modèle comme point de départ, puis personnalisez le contenu pour
 
 ### Lettre de souvenirs d'anniversaire avec chronologie
 
+<a href="https://miyogift.com/fr/lettre-souvenir-anniversaire-q7n4m-1135"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/04/gift/template/covers/8c17f028-26ee-4269-b6ac-6e46e3c08fab_timelessyou-cover-1080x1920.webp" alt="Lettre de souvenirs d'anniversaire avec chronologie" width="240"></a>
+
 [Voir Lettre de souvenirs d'anniversaire avec chronologie](https://miyogift.com/fr/lettre-souvenir-anniversaire-q7n4m-1135)
 
 ### Lettre de souvenirs d'anniversaire avec surprise finale
+
+<a href="https://miyogift.com/fr/lettre-souvenir-anniversaire-couple-v8r2s-1121"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/02/gift/template/covers/10bd36a8-16db-4d18-b2ab-2de4c0fbd5c3_letters-of-us-cover.webp" alt="Lettre de souvenirs d'anniversaire avec surprise finale" width="240"></a>
 
 [Voir Lettre de souvenirs d'anniversaire avec surprise finale](https://miyogift.com/fr/lettre-souvenir-anniversaire-couple-v8r2s-1121)
 
 ### Page cadeau d'anniversaire avec souvenirs
 
+<a href="https://miyogift.com/fr/cadeau-anniversaire-photos-voeux-z3p9k-1159"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/05/gift/template/covers/712b69b2-f198-47cf-9e6e-b1e6b3bbfe8e_6wSEoC60xs-cover.webp" alt="Page cadeau d'anniversaire avec souvenirs" width="240"></a>
+
 [Voir Page cadeau d'anniversaire avec souvenirs](https://miyogift.com/fr/cadeau-anniversaire-photos-voeux-z3p9k-1159)
 
 ### Page de voeux d'anniversaire avec souvenirs
+
+<a href="https://miyogift.com/fr/page-message-anniversaire-souvenirs-m8r4t-1147"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/05/gift/template/covers/d288300f-98d6-4141-81cd-804c6f4bff51_O0CZ1kTkb1-cover.webp" alt="Page de voeux d'anniversaire avec souvenirs" width="240"></a>
 
 [Voir Page de voeux d'anniversaire avec souvenirs](https://miyogift.com/fr/page-message-anniversaire-souvenirs-m8r4t-1147)
 
 ### Page surprise d'anniversaire interactive
 
+<a href="https://miyogift.com/fr/page-surprise-anniversaire-interactive-q6n2v-1171"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/05/gift/template/covers/3ca41ef2-93ec-48c6-8f10-04028fbab224_eI3ZOAELuS-cover.webp" alt="Page surprise d'anniversaire interactive" width="240"></a>
+
 [Voir Page surprise d'anniversaire interactive](https://miyogift.com/fr/page-surprise-anniversaire-interactive-q6n2v-1171)
 
 ### Galaxie de mots d'amour
+
+<a href="https://miyogift.com/fr/love-note-galaxy-1113"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/06/21/gift/template/covers/3ebef018-38d9-4900-bef6-d97d7443389c_love-note-galaxy-cover-9x16.webp" alt="Galaxie de mots d'amour" width="240"></a>
 
 [Voir Galaxie de mots d'amour](https://miyogift.com/fr/love-note-galaxy-1113)
 

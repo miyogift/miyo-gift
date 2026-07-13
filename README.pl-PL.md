@@ -85,25 +85,37 @@ Wybierz szablon jako punkt wyjścia, a następnie spersonalizuj treść dla osob
 
 ### List wspomnień na rocznicę z osią czasu
 
+<a href="https://miyogift.com/pl/list-wspomnien-na-rocznice-q7n4m-1139"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/04/gift/template/covers/8c17f028-26ee-4269-b6ac-6e46e3c08fab_timelessyou-cover-1080x1920.webp" alt="List wspomnień na rocznicę z osią czasu" width="240"></a>
+
 [Zobacz List wspomnień na rocznicę z osią czasu](https://miyogift.com/pl/list-wspomnien-na-rocznice-q7n4m-1139)
 
 ### List wspomnień na rocznicę z finałową niespodzianką
+
+<a href="https://miyogift.com/pl/list-wspomnien-na-rocznice-v8r2s-1127"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/02/gift/template/covers/10bd36a8-16db-4d18-b2ab-2de4c0fbd5c3_letters-of-us-cover.webp" alt="List wspomnień na rocznicę z finałową niespodzianką" width="240"></a>
 
 [Zobacz List wspomnień na rocznicę z finałową niespodzianką](https://miyogift.com/pl/list-wspomnien-na-rocznice-v8r2s-1127)
 
 ### Urodzinowa strona prezentu ze wspomnieniami
 
+<a href="https://miyogift.com/pl/prezent-urodzinowy-zdjecia-zyczenia-z3p9k-1163"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/05/gift/template/covers/712b69b2-f198-47cf-9e6e-b1e6b3bbfe8e_6wSEoC60xs-cover.webp" alt="Urodzinowa strona prezentu ze wspomnieniami" width="240"></a>
+
 [Zobacz Urodzinowa strona prezentu ze wspomnieniami](https://miyogift.com/pl/prezent-urodzinowy-zdjecia-zyczenia-z3p9k-1163)
 
 ### Urodzinowa strona życzeń ze wspomnieniami
+
+<a href="https://miyogift.com/pl/strona-zyczenia-urodzinowe-wspomnienia-m8r4t-1151"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/05/gift/template/covers/d288300f-98d6-4141-81cd-804c6f4bff51_O0CZ1kTkb1-cover.webp" alt="Urodzinowa strona życzeń ze wspomnieniami" width="240"></a>
 
 [Zobacz Urodzinowa strona życzeń ze wspomnieniami](https://miyogift.com/pl/strona-zyczenia-urodzinowe-wspomnienia-m8r4t-1151)
 
 ### Interaktywna strona niespodzianki urodzinowej
 
+<a href="https://miyogift.com/pl/interaktywna-niespodzianka-urodzinowa-q6n2v-1175"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/05/gift/template/covers/3ca41ef2-93ec-48c6-8f10-04028fbab224_eI3ZOAELuS-cover.webp" alt="Interaktywna strona niespodzianki urodzinowej" width="240"></a>
+
 [Zobacz Interaktywna strona niespodzianki urodzinowej](https://miyogift.com/pl/interaktywna-niespodzianka-urodzinowa-q6n2v-1175)
 
 ### Galaktyka miłosnych wiadomości
+
+<a href="https://miyogift.com/pl/love-note-galaxy-1117"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/06/21/gift/template/covers/3ebef018-38d9-4900-bef6-d97d7443389c_love-note-galaxy-cover-9x16.webp" alt="Galaktyka miłosnych wiadomości" width="240"></a>
 
 [Zobacz Galaktyka miłosnych wiadomości](https://miyogift.com/pl/love-note-galaxy-1117)
 

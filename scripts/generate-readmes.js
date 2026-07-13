@@ -431,6 +431,14 @@ function link(label, href) {
   return `[${label}](${href})`;
 }
 
+function escapeAttribute(value) {
+  return value
+    .replaceAll("&", "&amp;")
+    .replaceAll("\"", "&quot;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;");
+}
+
 function languageNav(current) {
   return locales.map((locale) => locale.id === current.id ? `**${locale.label}**` : link(locale.label, `./${locale.file}`)).join(" · ");
 }
@@ -501,7 +509,11 @@ function renderTemplates(locale, pages) {
     .sort((a, b) => order.indexOf(templateKey(a.loc)) - order.indexOf(templateKey(b.loc)))
     .map((page) => {
       const title = t.templates[templateKey(page.loc)] || titleFromSlug(page.loc);
-      return `### ${title}\n\n${link(t.templateLink.replace("{title}", title), `${SITE_ORIGIN}${page.loc}`)}`;
+      const href = `${SITE_ORIGIN}${page.loc}`;
+      const image = page.image
+        ? `<a href="${href}"><img src="${page.image}" alt="${escapeAttribute(title)}" width="240"></a>\n\n`
+        : "";
+      return `### ${title}\n\n${image}${link(t.templateLink.replace("{title}", title), href)}`;
     })
     .join("\n\n");
 }
@@ -528,7 +540,10 @@ async function fetchPagesByLocale() {
     const locale = locales.find((entry) => entry.id === detectLocale(item.loc));
     const relative = stripLocalePrefix(item.loc, locale);
     if (relative === "/" || relative === "/gift-ideas") continue;
-    byLocale.get(locale.id).push({ loc: item.loc });
+    byLocale.get(locale.id).push({
+      loc: item.loc,
+      image: Array.isArray(item.images) ? item.images[0]?.loc : undefined,
+    });
   }
 
   return byLocale;

@@ -85,25 +85,37 @@ Pilih template sebagai titik awal, lalu personalisasi kontennya untuk orang yang
 
 ### Surat Kenangan Hari Jadi dengan Linimasa
 
+<a href="https://miyogift.com/id/surat-kenangan-anniversary-q7n4m-1136"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/04/gift/template/covers/8c17f028-26ee-4269-b6ac-6e46e3c08fab_timelessyou-cover-1080x1920.webp" alt="Surat Kenangan Hari Jadi dengan Linimasa" width="240"></a>
+
 [Lihat Surat Kenangan Hari Jadi dengan Linimasa](https://miyogift.com/id/surat-kenangan-anniversary-q7n4m-1136)
 
 ### Surat Kenangan Hari Jadi dengan Kejutan Akhir
+
+<a href="https://miyogift.com/id/surat-kenangan-anniversary-v8r2s-1124"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/02/gift/template/covers/10bd36a8-16db-4d18-b2ab-2de4c0fbd5c3_letters-of-us-cover.webp" alt="Surat Kenangan Hari Jadi dengan Kejutan Akhir" width="240"></a>
 
 [Lihat Surat Kenangan Hari Jadi dengan Kejutan Akhir](https://miyogift.com/id/surat-kenangan-anniversary-v8r2s-1124)
 
 ### Halaman Hadiah Ulang Tahun dengan Kenangan
 
+<a href="https://miyogift.com/id/hadiah-ulang-tahun-foto-harapan-z3p9k-1160"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/05/gift/template/covers/712b69b2-f198-47cf-9e6e-b1e6b3bbfe8e_6wSEoC60xs-cover.webp" alt="Halaman Hadiah Ulang Tahun dengan Kenangan" width="240"></a>
+
 [Lihat Halaman Hadiah Ulang Tahun dengan Kenangan](https://miyogift.com/id/hadiah-ulang-tahun-foto-harapan-z3p9k-1160)
 
 ### Halaman Ucapan Ulang Tahun dengan Kenangan
+
+<a href="https://miyogift.com/id/halaman-ucapan-ulang-tahun-kenangan-m8r4t-1148"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/05/gift/template/covers/d288300f-98d6-4141-81cd-804c6f4bff51_O0CZ1kTkb1-cover.webp" alt="Halaman Ucapan Ulang Tahun dengan Kenangan" width="240"></a>
 
 [Lihat Halaman Ucapan Ulang Tahun dengan Kenangan](https://miyogift.com/id/halaman-ucapan-ulang-tahun-kenangan-m8r4t-1148)
 
 ### Halaman Kejutan Ulang Tahun Interaktif
 
+<a href="https://miyogift.com/id/halaman-kejutan-ulang-tahun-interaktif-q6n2v-1172"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/05/gift/template/covers/3ca41ef2-93ec-48c6-8f10-04028fbab224_eI3ZOAELuS-cover.webp" alt="Halaman Kejutan Ulang Tahun Interaktif" width="240"></a>
+
 [Lihat Halaman Kejutan Ulang Tahun Interaktif](https://miyogift.com/id/halaman-kejutan-ulang-tahun-interaktif-q6n2v-1172)
 
 ### Love Note Galaxy
+
+<a href="https://miyogift.com/id/love-note-galaxy-1114"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/06/21/gift/template/covers/3ebef018-38d9-4900-bef6-d97d7443389c_love-note-galaxy-cover-9x16.webp" alt="Love Note Galaxy" width="240"></a>
 
 [Lihat Love Note Galaxy](https://miyogift.com/id/love-note-galaxy-1114)
 
