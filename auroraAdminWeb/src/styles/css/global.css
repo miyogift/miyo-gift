@@ -1,8 +1,0 @@
-@import './transition.css';
-@import './reset.css';
-@import './scrollbar.css';
-@import "./aurora.css";
-
-html, body, #app {
-	height: 100%;
-}

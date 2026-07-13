@@ -1,4 +1,0 @@
-INSERT INTO aurora_admin.au_setting (uid, param_code, param_name, param_value, create_time, update_time) VALUES (1, 'nginx_file_host', 'nginx_file_host', 'http://192.168.31.26', '2023-01-14 22:55:52', '2023-01-15 00:18:48');
-INSERT INTO aurora_admin.au_setting (uid, param_code, param_name, param_value, create_time, update_time) VALUES (2, 'admin-web-url', 'admin-web-url', 'http://localhost:3400', '2023-01-27 19:10:06', null);
-INSERT INTO aurora_admin.au_setting (uid, param_code, param_name, param_value, create_time, update_time) VALUES (3, 'page-web-url', 'page-web-url', 'http://localhost:7899', '2023-01-27 19:10:31', null);
-INSERT INTO aurora_admin.au_setting (uid, param_code, param_name, param_value, create_time, update_time) VALUES (4, 'lazy-loading-img', 'lazy-loading-img', 'https://gcore.jsdelivr.net/gh/xcyeye/cdn@main/image/other/lazyLoadImg.png', '2023-01-27 20:13:32', '2023-01-27 20:22:33');

@@ -1,2 +1,0 @@
-org.springframework.boot.SpringApplicationRunListener=\
-xyz.xcye.admin.listener.AuroraSpringApplicationRunListener
