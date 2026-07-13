@@ -1,0 +1,42 @@
+name: Update README links
+
+on:
+  schedule:
+    - cron: "23 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readmes
+  cancel-in-progress: false
+
+jobs:
+  update-readmes:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Update generated README sections
+        run: node scripts/generate-readmes.js
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet; then
+            echo "No README link changes."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README*.md
+          git commit -m "update README links"
+          git push
