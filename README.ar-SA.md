@@ -115,9 +115,9 @@
 
 ### مجرة رسائل الحب
 
-<a href="https://miyogift.com/ar/love-note-galaxy-1110"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/06/21/gift/template/covers/3ebef018-38d9-4900-bef6-d97d7443389c_love-note-galaxy-cover-9x16.webp" alt="مجرة رسائل الحب" width="240"></a>
+<a href="https://miyogift.com/ar/love-note-galaxy-asdfl-1110"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/06/21/gift/template/covers/3ebef018-38d9-4900-bef6-d97d7443389c_love-note-galaxy-cover-9x16.webp" alt="مجرة رسائل الحب" width="240"></a>
 
-[عرض مجرة رسائل الحب](https://miyogift.com/ar/love-note-galaxy-1110)
+[عرض مجرة رسائل الحب](https://miyogift.com/ar/love-note-galaxy-asdfl-1110)
 
 <!-- TEMPLATES:END -->
 

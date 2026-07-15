@@ -115,9 +115,9 @@ Choisissez un modèle comme point de départ, puis personnalisez le contenu pour
 
 ### Galaxie de mots d'amour
 
-<a href="https://miyogift.com/fr/love-note-galaxy-1113"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/06/21/gift/template/covers/3ebef018-38d9-4900-bef6-d97d7443389c_love-note-galaxy-cover-9x16.webp" alt="Galaxie de mots d'amour" width="240"></a>
+<a href="https://miyogift.com/fr/love-note-galaxy-asdfl-1113"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/06/21/gift/template/covers/3ebef018-38d9-4900-bef6-d97d7443389c_love-note-galaxy-cover-9x16.webp" alt="Galaxie de mots d'amour" width="240"></a>
 
-[Voir Galaxie de mots d'amour](https://miyogift.com/fr/love-note-galaxy-1113)
+[Voir Galaxie de mots d'amour](https://miyogift.com/fr/love-note-galaxy-asdfl-1113)
 
 <!-- TEMPLATES:END -->
 

@@ -115,9 +115,9 @@ Wybierz szablon jako punkt wyjścia, a następnie spersonalizuj treść dla osob
 
 ### Galaktyka miłosnych wiadomości
 
-<a href="https://miyogift.com/pl/love-note-galaxy-1117"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/06/21/gift/template/covers/3ebef018-38d9-4900-bef6-d97d7443389c_love-note-galaxy-cover-9x16.webp" alt="Galaktyka miłosnych wiadomości" width="240"></a>
+<a href="https://miyogift.com/pl/love-note-galaxy-asdfl-1117"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/06/21/gift/template/covers/3ebef018-38d9-4900-bef6-d97d7443389c_love-note-galaxy-cover-9x16.webp" alt="Galaktyka miłosnych wiadomości" width="240"></a>
 
-[Zobacz Galaktyka miłosnych wiadomości](https://miyogift.com/pl/love-note-galaxy-1117)
+[Zobacz Galaktyka miłosnych wiadomości](https://miyogift.com/pl/love-note-galaxy-asdfl-1117)
 
 <!-- TEMPLATES:END -->
 

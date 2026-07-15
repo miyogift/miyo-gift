@@ -115,9 +115,9 @@ Pilih template sebagai titik awal, lalu personalisasi kontennya untuk orang yang
 
 ### Love Note Galaxy
 
-<a href="https://miyogift.com/id/love-note-galaxy-1114"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/06/21/gift/template/covers/3ebef018-38d9-4900-bef6-d97d7443389c_love-note-galaxy-cover-9x16.webp" alt="Love Note Galaxy" width="240"></a>
+<a href="https://miyogift.com/id/love-note-galaxy-asdfl-1114"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/06/21/gift/template/covers/3ebef018-38d9-4900-bef6-d97d7443389c_love-note-galaxy-cover-9x16.webp" alt="Love Note Galaxy" width="240"></a>
 
-[Lihat Love Note Galaxy](https://miyogift.com/id/love-note-galaxy-1114)
+[Lihat Love Note Galaxy](https://miyogift.com/id/love-note-galaxy-asdfl-1114)
 
 <!-- TEMPLATES:END -->
 

@@ -115,9 +115,9 @@ Wähle eine Vorlage als Ausgangspunkt und personalisiere den Inhalt für die Per
 
 ### Liebesnotizen-Galaxie
 
-<a href="https://miyogift.com/de/love-note-galaxy-1111"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/06/21/gift/template/covers/3ebef018-38d9-4900-bef6-d97d7443389c_love-note-galaxy-cover-9x16.webp" alt="Liebesnotizen-Galaxie" width="240"></a>
+<a href="https://miyogift.com/de/love-note-galaxy-asdfl-1111"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/06/21/gift/template/covers/3ebef018-38d9-4900-bef6-d97d7443389c_love-note-galaxy-cover-9x16.webp" alt="Liebesnotizen-Galaxie" width="240"></a>
 
-[Liebesnotizen-Galaxie ansehen](https://miyogift.com/de/love-note-galaxy-1111)
+[Liebesnotizen-Galaxie ansehen](https://miyogift.com/de/love-note-galaxy-asdfl-1111)
 
 <!-- TEMPLATES:END -->
 

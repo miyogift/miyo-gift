@@ -115,9 +115,9 @@ Choose a template as the starting point, then personalize the content for the pe
 
 ### Love Note Galaxy
 
-<a href="https://miyogift.com/love-note-galaxy-1107"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/06/21/gift/template/covers/3ebef018-38d9-4900-bef6-d97d7443389c_love-note-galaxy-cover-9x16.webp" alt="Love Note Galaxy" width="240"></a>
+<a href="https://miyogift.com/love-note-galaxy-asdfl-1107"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/06/21/gift/template/covers/3ebef018-38d9-4900-bef6-d97d7443389c_love-note-galaxy-cover-9x16.webp" alt="Love Note Galaxy" width="240"></a>
 
-[View Love Note Galaxy](https://miyogift.com/love-note-galaxy-1107)
+[View Love Note Galaxy](https://miyogift.com/love-note-galaxy-asdfl-1107)
 
 <!-- TEMPLATES:END -->
 

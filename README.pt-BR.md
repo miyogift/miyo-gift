@@ -115,9 +115,9 @@ Escolha um modelo como ponto de partida e personalize o conteúdo para a pessoa 
 
 ### Galáxia de notas de amor
 
-<a href="https://miyogift.com/pt/love-note-galaxy-1118"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/06/21/gift/template/covers/3ebef018-38d9-4900-bef6-d97d7443389c_love-note-galaxy-cover-9x16.webp" alt="Galáxia de notas de amor" width="240"></a>
+<a href="https://miyogift.com/pt/love-note-galaxy-asdfl-1118"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/06/21/gift/template/covers/3ebef018-38d9-4900-bef6-d97d7443389c_love-note-galaxy-cover-9x16.webp" alt="Galáxia de notas de amor" width="240"></a>
 
-[Ver Galáxia de notas de amor](https://miyogift.com/pt/love-note-galaxy-1118)
+[Ver Galáxia de notas de amor](https://miyogift.com/pt/love-note-galaxy-asdfl-1118)
 
 <!-- TEMPLATES:END -->
 
