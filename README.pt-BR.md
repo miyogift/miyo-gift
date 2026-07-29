@@ -83,6 +83,12 @@ Escolha um modelo como ponto de partida e personalize o conteúdo para a pessoa 
 
 <!-- TEMPLATES:START -->
 
+### Surpresa Aniversario Online
+
+<a href="https://miyogift.com/pt/surpresa-aniversario-online-b7k2m-1188"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/28/gift/template/covers/29ca8db4-9f4d-4600-aa3e-58e51bb58dc0_birthday-4-cover.webp" alt="Surpresa Aniversario Online" width="240"></a>
+
+[Ver Surpresa Aniversario Online](https://miyogift.com/pt/surpresa-aniversario-online-b7k2m-1188)
+
 ### Carta de memórias de aniversário com linha do tempo
 
 <a href="https://miyogift.com/pt/carta-memorias-aniversario-q7n4m-1140"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/04/gift/template/covers/8c17f028-26ee-4269-b6ac-6e46e3c08fab_timelessyou-cover-1080x1920.webp" alt="Carta de memórias de aniversário com linha do tempo" width="240"></a>

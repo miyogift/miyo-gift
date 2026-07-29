@@ -83,6 +83,12 @@ MiYo Gift は誕生日、記念日、遠距離恋愛、謝罪、卒業、ロマ�
 
 <!-- TEMPLATES:START -->
 
+### Online Birthday Surprise
+
+<a href="https://miyogift.com/ja/online-birthday-surprise-b7k2m-1185"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/28/gift/template/covers/29ca8db4-9f4d-4600-aa3e-58e51bb58dc0_birthday-4-cover.webp" alt="Online Birthday Surprise" width="240"></a>
+
+[Online Birthday Surpriseを見る](https://miyogift.com/ja/online-birthday-surprise-b7k2m-1185)
+
 ### タイムライン付き記念日メモリーレター
 
 <a href="https://miyogift.com/ja/kinenbi-omoide-letter-q7n4m-1137"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/04/gift/template/covers/8c17f028-26ee-4269-b6ac-6e46e3c08fab_timelessyou-cover-1080x1920.webp" alt="タイムライン付き記念日メモリーレター" width="240"></a>

@@ -83,6 +83,12 @@ Wähle eine Vorlage als Ausgangspunkt und personalisiere den Inhalt für die Per
 
 <!-- TEMPLATES:START -->
 
+### Geburtstagsueberraschung Online
+
+<a href="https://miyogift.com/de/geburtstagsueberraschung-online-b7k2m-1180"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/28/gift/template/covers/29ca8db4-9f4d-4600-aa3e-58e51bb58dc0_birthday-4-cover.webp" alt="Geburtstagsueberraschung Online" width="240"></a>
+
+[Geburtstagsueberraschung Online ansehen](https://miyogift.com/de/geburtstagsueberraschung-online-b7k2m-1180)
+
 ### Jahrestags-Erinnerungsbrief mit Timeline
 
 <a href="https://miyogift.com/de/jahrestag-erinnerungsbrief-q7n4m-1132"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/04/gift/template/covers/8c17f028-26ee-4269-b6ac-6e46e3c08fab_timelessyou-cover-1080x1920.webp" alt="Jahrestags-Erinnerungsbrief mit Timeline" width="240"></a>

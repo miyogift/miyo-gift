@@ -83,6 +83,12 @@ MiYo Gift 适合生日、纪念日、异地恋、道歉、毕业、浪漫节日�
 
 <!-- TEMPLATES:START -->
 
+### Birthday Surprise Page
+
+<a href="https://miyogift.com/zh/birthday-surprise-page-b7k2m-1189"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/28/gift/template/covers/29ca8db4-9f4d-4600-aa3e-58e51bb58dc0_birthday-4-cover.webp" alt="Birthday Surprise Page" width="240"></a>
+
+[查看Birthday Surprise Page](https://miyogift.com/zh/birthday-surprise-page-b7k2m-1189)
+
 ### 纪念日回忆信：时间线版本
 
 <a href="https://miyogift.com/zh/jinianri-huiyi-letter-q7n4m-1141"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/04/gift/template/covers/8c17f028-26ee-4269-b6ac-6e46e3c08fab_timelessyou-cover-1080x1920.webp" alt="纪念日回忆信：时间线版本" width="240"></a>

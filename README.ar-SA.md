@@ -83,6 +83,12 @@
 
 <!-- TEMPLATES:START -->
 
+### Online Birthday Surprise
+
+<a href="https://miyogift.com/ar/online-birthday-surprise-b7k2m-1179"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/28/gift/template/covers/29ca8db4-9f4d-4600-aa3e-58e51bb58dc0_birthday-4-cover.webp" alt="Online Birthday Surprise" width="240"></a>
+
+[عرض Online Birthday Surprise](https://miyogift.com/ar/online-birthday-surprise-b7k2m-1179)
+
 ### رسالة ذكريات للذكرى مع خط زمني
 
 <a href="https://miyogift.com/ar/risalat-dhikrayat-anniversary-q7n4m-1131"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/04/gift/template/covers/8c17f028-26ee-4269-b6ac-6e46e3c08fab_timelessyou-cover-1080x1920.webp" alt="رسالة ذكريات للذكرى مع خط زمني" width="240"></a>

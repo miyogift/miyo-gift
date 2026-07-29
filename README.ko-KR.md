@@ -83,6 +83,12 @@ MiYo Gift는 생일, 기념일, 장거리 연애, 사과, 졸업, 로맨틱한 �
 
 <!-- TEMPLATES:START -->
 
+### Online Birthday Surprise
+
+<a href="https://miyogift.com/ko/online-birthday-surprise-b7k2m-1186"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/28/gift/template/covers/29ca8db4-9f4d-4600-aa3e-58e51bb58dc0_birthday-4-cover.webp" alt="Online Birthday Surprise" width="240"></a>
+
+[Online Birthday Surprise 보기](https://miyogift.com/ko/online-birthday-surprise-b7k2m-1186)
+
 ### 타임라인 기념일 추억 편지
 
 <a href="https://miyogift.com/ko/anniversary-memory-letter-ko-q7n4m-1138"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/04/gift/template/covers/8c17f028-26ee-4269-b6ac-6e46e3c08fab_timelessyou-cover-1080x1920.webp" alt="타임라인 기념일 추억 편지" width="240"></a>

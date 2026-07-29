@@ -83,6 +83,12 @@ Pilih template sebagai titik awal, lalu personalisasi kontennya untuk orang yang
 
 <!-- TEMPLATES:START -->
 
+### Kejutan Ulang Tahun Online
+
+<a href="https://miyogift.com/id/kejutan-ulang-tahun-online-b7k2m-1184"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/28/gift/template/covers/29ca8db4-9f4d-4600-aa3e-58e51bb58dc0_birthday-4-cover.webp" alt="Kejutan Ulang Tahun Online" width="240"></a>
+
+[Lihat Kejutan Ulang Tahun Online](https://miyogift.com/id/kejutan-ulang-tahun-online-b7k2m-1184)
+
 ### Surat Kenangan Hari Jadi dengan Linimasa
 
 <a href="https://miyogift.com/id/surat-kenangan-anniversary-q7n4m-1136"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/04/gift/template/covers/8c17f028-26ee-4269-b6ac-6e46e3c08fab_timelessyou-cover-1080x1920.webp" alt="Surat Kenangan Hari Jadi dengan Linimasa" width="240"></a>

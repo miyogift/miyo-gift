@@ -83,6 +83,12 @@ Choose a template as the starting point, then personalize the content for the pe
 
 <!-- TEMPLATES:START -->
 
+### Happy Birthday Surprise Website
+
+<a href="https://miyogift.com/happy-birthday-surprise-website-b7k2m-1181"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/28/gift/template/covers/29ca8db4-9f4d-4600-aa3e-58e51bb58dc0_birthday-4-cover.webp" alt="Happy Birthday Surprise Website" width="240"></a>
+
+[View Happy Birthday Surprise Website](https://miyogift.com/happy-birthday-surprise-website-b7k2m-1181)
+
 ### Anniversary Memory Letter with Timeline Moments
 
 <a href="https://miyogift.com/anniversary-memory-letter-q7n4m-1133"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/04/gift/template/covers/8c17f028-26ee-4269-b6ac-6e46e3c08fab_timelessyou-cover-1080x1920.webp" alt="Anniversary Memory Letter with Timeline Moments" width="240"></a>

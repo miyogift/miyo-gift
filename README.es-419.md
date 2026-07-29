@@ -83,6 +83,12 @@ Elige una plantilla como punto de partida y personaliza el contenido para la per
 
 <!-- TEMPLATES:START -->
 
+### Sorpresa Cumpleanos En Linea
+
+<a href="https://miyogift.com/es/sorpresa-cumpleanos-en-linea-b7k2m-1182"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/28/gift/template/covers/29ca8db4-9f4d-4600-aa3e-58e51bb58dc0_birthday-4-cover.webp" alt="Sorpresa Cumpleanos En Linea" width="240"></a>
+
+[Ver Sorpresa Cumpleanos En Linea](https://miyogift.com/es/sorpresa-cumpleanos-en-linea-b7k2m-1182)
+
 ### Carta de recuerdos de aniversario con línea de tiempo
 
 <a href="https://miyogift.com/es/carta-recuerdos-aniversario-q7n4m-1134"><img src="https://cdn.miyogift.com/uploads/PUBLIC/2026/07/04/gift/template/covers/8c17f028-26ee-4269-b6ac-6e46e3c08fab_timelessyou-cover-1080x1920.webp" alt="Carta de recuerdos de aniversario con línea de tiempo" width="240"></a>
